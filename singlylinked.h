@@ -1,8 +1,5 @@
-#ifndef singly_linked
-#define singly_linked
-
-#include <stdio.h>
-#include<stdlib.h>
+#ifndef singly_linked_h
+#define singly_linked_h
 
 int main()
 {
@@ -19,5 +16,5 @@ int main()
    struct Node* nine = NULL;
    struct Node* ten = NULL;
 
-   #endif
+   #endif/*singly_linked_h*/
 
